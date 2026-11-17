@@ -1,0 +1,11 @@
+{
+  "name": "Tally Khata V3",
+  "short_name": "Tally Khata",
+  "description": "বাংলা ডিজিটাল হিসাবের খাতা",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f7f7",
+  "theme_color": "#0f766e",
+  "lang": "bn",
+  "icons": []
+}
