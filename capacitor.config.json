@@ -1,0 +1,6 @@
+{
+  "appId": "com.talikhata.v3",
+  "appName": "Tali Khata V3",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
